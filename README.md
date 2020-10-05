@@ -62,6 +62,6 @@ Redshift: Analytical database, optimized for aggregation, also good performance 
 Increase EMR cluster size to handle bigger volume of data
 Pipelines would be run on 6am daily. how to update dashboard? would it still work?
 Glue crawler is scheduled to run every 10 minutes and can be configured to run every morning at 7 AM if required.
-Data quality operators are used at appropriate position. In case of data pipleine failures email triggers can be configured to let the team know about pipeline failures.
+Data quality operators are used at appropriate position. In case of data pipeline failures email triggers can be configured to let the team know about pipeline failures.
 
 
